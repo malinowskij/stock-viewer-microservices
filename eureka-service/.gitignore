@@ -1,3 +1,8 @@
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+
 # Compiled class file
 *.class
 
@@ -46,3 +51,4 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+gradlew.bat
